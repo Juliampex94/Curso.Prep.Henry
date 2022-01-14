@@ -1,0 +1,11 @@
+{
+  "name": "02-js-i",
+  "version": "1.0.0",
+  "description": "<img  src='../logo.png' height='70px'>\r <table width=\"100%\" style='table-layout:fixed;'>\r   <tr>\r     <td>\r       <a href=\"https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=02-JS-I\">\r         <img src=\"https://static.thenounproject.com/png/204643-200.png\" width=\"100\"/>\r         <br>\r         Hacé click acá para dejar tu feedback sobre esta clase.\r       </a>\r     </td>\r   </tr>\r </table>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
